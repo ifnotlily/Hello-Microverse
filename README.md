@@ -3,7 +3,7 @@
 
 > This is an introductory project by microverse to test creating of repository, branches, linters and Pull Request, 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 
 ## Built With
@@ -34,9 +34,9 @@ Clone this repository
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/ifnotlily)
-- Twitter: [@twitterhandle](https://twitter.com/ifnotlily)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lilian-francis)
+- GitHub: [@ifnotlily](https://github.com/ifnotlily)
+- Twitter: [@ifnotlily](https://twitter.com/ifnotlily)
+- LinkedIn: [lilian-francis](https://linkedin.com/in/lilian-francis)
 
 
 ## 🤝 Contributing
